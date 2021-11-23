@@ -424,6 +424,11 @@
     "@typescript-eslint/types" "4.33.0"
     eslint-visitor-keys "^2.0.0"
 
+"@webcomponents/shadydom@^1.9.0":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@webcomponents/shadydom/-/shadydom-1.9.0.tgz#fac8ce835763f17d38b5cad818e2c90a96b2dcc3"
+  integrity sha512-1VoziSoBBsuGM3gk2nlOgLYOQLT9iG5s9ud6CxpdkYxJyGl3YWIVCsRPCXpJpdYp4/8ACkVcuD6GajRtIoJm1w==
+
 acorn-jsx@^5.3.1:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz#7ed5bb55908b3b2f1bc55c6af1653bada7f07937"
