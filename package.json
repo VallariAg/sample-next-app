@@ -7,6 +7,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "browserslist": ["IE 11"],
   "dependencies": {
     "fictoan-react": "^0.35.3",
     "next": "12.0.4",
